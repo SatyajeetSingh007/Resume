@@ -1,0 +1,63 @@
+{
+	"basics": {
+		"name": " Satyajeet singh",
+		"label": "Student",
+		"picture": " https://drive.google.com/file/d/10kK9yIr5DADIxcJVfi5ykcTk65KLzBfF/view ",
+		"email": " 2020kucp1103@iiitkota.ac.in",
+		"phone": " 9548101918",
+		
+		"summary": "I am student at iiit kota",
+		"location": {
+			"address": "Roorkee,Uttrakhand",
+			"postalCode": "247667",
+			"city": "Rooorkee",
+			"countryCode": "India",
+			"region": "Uttrakhand"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@Satyams33874290",
+				"url": "https://twitter.com/home?lang=en<handle>"
+			},
+			{
+				"network": "Github",
+				"username": " SatyajeetSingh007",
+				"url": " https://github.com/SatyajeetSingh007 <handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "SATYAJEET SINGH",
+				"url": " https://www.linkedin.com/in/satyajeet-singh-618a7120b/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "satyajeet___singh",
+				"url": " <handle>"
+			}
+		]
+	},
+	
+
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-11-30 //Date",
+		
+		"gpa": "8.14",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript","C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Badminton","cricket"]
+	}],
+	"references": []
+}
